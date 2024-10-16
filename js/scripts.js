@@ -66,3 +66,11 @@ function writeMessage (){
 }
     
 writeMessage ()
+
+
+function fechaDeNacimiento (dia, mes, año){
+console.log ('Mi fecha de cumpleaños es '+ dia + '/' + mes + '/' + año )
+
+}
+
+fechaDeNacimiento (2,7,1990)
